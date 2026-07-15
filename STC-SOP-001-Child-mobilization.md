@@ -6,7 +6,7 @@
 ---
 
 ## 1. Objective & Operational Mandate
-When a child goes missing or an active abduction is suspected, the clock is ticking against a critical 24-hour window. The mandate of Safe Tech Cyber (STC) Floor 6 (Threat Intelligence) is to deploy immediate, high-speed, passive digital footprint extraction to map threat actors and last known locations.
+When a child goes missing or an active abduction is suspected, the clock is ticking against a critical 24-hour window. The mandate of Safe Tech Cyber (STC)  Threat Intelligence is to deploy immediate, high-speed, passive digital footprint extraction to map threat actors and last known locations.
 
 ### The Golden Rule of Passive OSINT
 STC analysts work completely invisibly. We harvest publicly available data on the clear and dark web. Personnel must NEVER interact with a suspect, message a target, or deploy active infrastructure that alerts a predator. If a threat actor detects an active trace, they will delete evidence, destroy hardware, or flee—putting the victim in immediate physical danger.
